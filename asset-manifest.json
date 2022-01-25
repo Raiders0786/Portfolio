@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a6a238c8.css",
+    "main.js": "/Portfolio/static/js/main.9a3a264b.js",
+    "static/js/787.3a0c1427.chunk.js": "/Portfolio/static/js/787.3a0c1427.chunk.js",
+    "static/media/robot-love.jpg": "/Portfolio/static/media/robot-love.01fe79df02dfd2e2e6b2.jpg",
+    "static/media/revert.jpg": "/Portfolio/static/media/revert.5d4f2003ce314710f111.jpg",
+    "static/media/bugcrowd.png": "/Portfolio/static/media/bugcrowd.20a8fade3cb44036e462.png",
+    "static/media/intern1.svg": "/Portfolio/static/media/intern1.f42f5deeec11c9d089f13c6efe6c0690.svg",
+    "static/media/gurgram.svg": "/Portfolio/static/media/gurgram.7cba161cd5009cdfa10d95117dfb5cd1.svg",
+    "static/media/internship.svg": "/Portfolio/static/media/internship.7fa6fec42d4631f55a078e65640b7bc3.svg",
+    "static/media/intern2.svg": "/Portfolio/static/media/intern2.6b9441e503acbdfa5639b9cec3d0a2f9.svg",
+    "static/media/achivements.svg": "/Portfolio/static/media/achivements.23d031dc8078bc36a779a78c53f08d61.svg",
+    "static/media/intern3.svg": "/Portfolio/static/media/intern3.9e6c7ddf496a2a1a335845dde7ccb0af.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.a6a238c8.css.map": "/Portfolio/static/css/main.a6a238c8.css.map",
+    "main.9a3a264b.js.map": "/Portfolio/static/js/main.9a3a264b.js.map",
+    "787.3a0c1427.chunk.js.map": "/Portfolio/static/js/787.3a0c1427.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a238c8.css",
+    "static/js/main.9a3a264b.js"
+  ]
+}
